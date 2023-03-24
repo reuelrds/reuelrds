@@ -15,11 +15,11 @@ I'm a Software Developer with a passion for Python, Web Development, and explori
 
 ## 🛠️ Technologies & Tools
 
-Languages: JavaScript, Python, HTML, CSS
-Frameworks: React, Node.js, Express, Django
-Tools: Git, Webpack, Docker, VSCode
-Databases: MongoDB, PostgreSQL, MySQL
-Platforms: AWS, Heroku, Netlify
+Languages: JavaScript, Python, HTML, CSS  
+Frameworks: React, Node.js, Express, Django  
+Tools: Git, Webpack, Docker, VSCode  
+Databases: MongoDB, PostgreSQL, MySQL  
+Platforms: AWS, Heroku, Netlify  
 
 ## 📈 GitHub Stats
 
