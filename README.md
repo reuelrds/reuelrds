@@ -6,7 +6,7 @@ I'm a Software Developer with a passion for Python, Web Development, and explori
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on developing a Reinforcement Learning schedular for a computing cluster.
+- 🔭 I’m working on developing a Reinforcement Learning schedular for a computing cluster.
 - 🌱 I’m currently learning Rust and WebAssembly
 - 💡 I'm interested in Web Development, Machine Learning, and Cloud Computing
 - 💬 Ask me about JavaScript, Python, or any Web Development related topic
@@ -15,18 +15,20 @@ I'm a Software Developer with a passion for Python, Web Development, and explori
 
 ## 🛠️ Technologies & Tools
 
-Languages: JavaScript, Python, HTML, CSS  
+Languages: JavaScript, Python, HTML, CSS, Java, Rust, C  
 Frameworks: React, Node.js, Express, Django  
 Tools: Git, Webpack, Docker, VSCode  
 Databases: MongoDB, PostgreSQL, MySQL  
 Platforms: AWS, Heroku, Netlify  
 
+<!-- 
 ## 📈 GitHub Stats
 
 ![Reuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=reuelrds&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reuelrds&layout=compact&theme=radical)
 
+-->
 ## 📫 Let's Connect!
 
 [![Linkedin: reuel-dsilva](https://img.shields.io/badge/-ReuelDsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reuel-dsilva/)](https://www.linkedin.com/in/reuel-dsilva/)
